@@ -28,11 +28,11 @@ baseurl: "/nabla"
 # Navigation menu
 navigation_links:
 
-  - title: Sobre
+  - title: sobre
     url: /nabla/about
 
-  - title: Search
-    url: nabla/search
+  - title: pesquisar
+    url: /nabla/search
 
 # Footer icons
 footer_links:
