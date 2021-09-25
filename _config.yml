@@ -23,7 +23,7 @@ url: https://fabiom.xyz/nabla
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/nabla"
 
 # Navigation menu
 navigation_links:
